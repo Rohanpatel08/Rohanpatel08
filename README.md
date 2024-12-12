@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohan Bangoriya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **JavaScript, React Js**
+- 🌱 I’m currently into **Laravel, PHP**
 
-- 💬 Ask me about **react, javascript, automation**
+- 💬 Ask me about **Laravel, PHP**
 
 - 📫 How to reach me **rohanbangoriya008@gmail.com**
 
